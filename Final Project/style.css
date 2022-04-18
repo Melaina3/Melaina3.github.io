@@ -1,0 +1,13 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  font-family: helvetica;
+}
+
+h1{
+  text-align: center;
+  font-weight: 700;
+  font-size: 45px;
+  text-transform: uppercase;
+}
