@@ -5,8 +5,7 @@ function setup() {
 function draw() {
   var x = mouseX;
   var y = mouseY;
-  background('red');
-  fill(255, 150);
+  background(528);
   var ix = width - mouseX;  // Inverse X
   var iy = height - mouseY; // Inverse Y
   ellipse(x, height/2, y, y);
